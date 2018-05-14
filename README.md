@@ -9,7 +9,7 @@ Saída - O menor valor e(n) tal que  o erro relativo entre duas aproximações s
 Entrada - A primeira linha possui um inteiro N, representando a dimensão a matriz. Cada uma das N linhas seguintes contém N+1 números reais, sendo o último número real representando o termo independente;
 
 Saída - A saída contém N linhas. Cada linha contém N+1 números reais, escritos com a precisão de cinco casas decimais seguindo de mais N linhas. A i-ésima linha seguinte tem o formato "x[i] = v", onde v é um número real, escrito como a precisão de cinco casas decimais, representando o valor da variável i no sistema de equação;
-- Atividade 3: Implementação do Método de GaussSeidel.
+- Atividade 3: Implementação do Método de Gauss-Seidel.
 
 Entrada - A primeira linha possui um inteiro N, representando a dimensão a matriz. Cada uma das N linhas seguintes contém N+1 números reais, sendo o último número real representando o termo independente do sistema linear seguido de 1 linha contendo N números reais representando uma aproximação inicial para o solução do sistema. Na linha seguinte, um número real epsilon (e) representando a precisão tolerada. Na última linha, um inteiro MAX_ITER representando o número máximo de iterações do método;
 
