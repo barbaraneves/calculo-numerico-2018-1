@@ -56,7 +56,7 @@ Entrada - A entrada possui três linhas: a primeira linha contém um inteiro D r
 
 Saída - A saída devolve um número ponto flutuante com 5 casas decimais depois da vírgula representando o valor aproximado da integral calculada usando a Regra de Simpson Composta.
 
-Atividade 9: Lista sobre Programação Linear.
+- Atividade 9: Lista sobre Programação Linear.
 
 Tópicos - Resolução Gráfica do PPL, Modelagem, Método Simplex e Dualidade.
 
